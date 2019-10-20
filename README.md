@@ -1,2 +1,2 @@
-# PS_Bot
-Basic Bot for Pokémon Showdown.
+# Sacred Conalion
+Bot for Pokémon Showdown.
