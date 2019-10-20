@@ -1,0 +1,29 @@
+{
+  "name": "PS_Bot",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PartMan7/PS_Bot/"
+  },
+  "scripts": {
+    "start": "node cobalion.js"
+  },
+  "main": "bot.js",
+  "engines": {
+    "node": "^11.10.0"
+  },
+  "private": true,
+  "dependencies": {
+    "js-md5": "*",
+    "discord.js": "*",
+    "debug": "^4.1.1",
+    "fs": "*",
+    "enmap": "^4.7.1",
+    "is-typedarray": "^1.0.0",
+    "ms": "2.1.1",
+    "typedarray-to-buffer": "^3.1.5",
+    "yaeti": "^1.0.2"
+  },
+  "description": "PS_Bot",
+  "homepage": "https://github.com/PartMan7/PS_Bot/"
+}
