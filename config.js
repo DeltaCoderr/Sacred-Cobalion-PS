@@ -11,11 +11,11 @@ exports.server = 'sim.smogon.com';
 exports.port = 8000;
 exports.serverid = 'showdown';
 // Token: the discord bot token. If you dont want the Bot to connect to discord, leave this blank
-exports.token = process.env.token
+exports.token = ''
 // The username of the bot. Register an account with the username of the bot, then use those details here
 exports.nickName = 'Sacred Cobalion';
 // Password of the bot
-exports.pass = process.env.pass;
+exports.pass = ''
 // autoJoin: the rooms you want your bot to join
 exports.autoJoin = ['room1', 'room2', 'room3'];
 // Prefix: the character(s) used before a command
