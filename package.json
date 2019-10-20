@@ -1,9 +1,9 @@
 {
-  "name": "PS_Bot",
-  "version": "0.0.1",
+  "name": "Sacred-Cobalion",
+  "version": "1.5.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/PartMan7/PS_Bot/"
+    "url": "https://github.com/SSlayer9/Sacred-Cobalion-PS/"
   },
   "scripts": {
     "start": "node cobalion.js"
@@ -19,11 +19,12 @@
     "debug": "^4.1.1",
     "fs": "*",
     "enmap": "^4.7.1",
+    "lodash": ">=4.17.13"
     "is-typedarray": "^1.0.0",
     "ms": "2.1.1",
     "typedarray-to-buffer": "^3.1.5",
     "yaeti": "^1.0.2"
   },
-  "description": "PS_Bot",
-  "homepage": "https://github.com/PartMan7/PS_Bot/"
+  "description": "Sacred-Cobalion",
+  "homepage": "https://github.com/SSlayer9/Sacred-Cobalion/"
 }
