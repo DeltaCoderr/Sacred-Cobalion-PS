@@ -1,2 +1,2 @@
-# Sacred Conalion
+# Sacred Cobalion
 Bot for Pokémon Showdown.
